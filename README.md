@@ -4,6 +4,7 @@
 A website that generates a random password for its user.
 
 ## Website Link
+https://1ance-301.github.io/password-generator/
 
 ## Built With
 * HTML
